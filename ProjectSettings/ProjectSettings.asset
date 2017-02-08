@@ -453,7 +453,8 @@ PlayerSettings:
   XboxOnePersistentLocalStorageSize: 0
   vrEditorSettings: {}
   cloudServicesEnabled:
-    Collab: 1
+    Collab: 0
+    UNet: 1
   cloudProjectId: 5311f849-f675-4fcf-84fd-6ec25abfc592
   projectName: Roll-a-Ball-Extended
   organizationId: jack-serjeant
