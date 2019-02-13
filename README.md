@@ -1,4 +1,5 @@
 # Unity-Tutorial-Roll-a-Ball-Extended
+[comment]: <> (#TODO: Add links to the blog posts for each part. ) 
 ## [Part 1 - Camera Switch](https://github.com/JRSerjeant/Unity-Tutorial-Roll-a-Ball-Extended/releases/tag/CameraSwitch)
 ## [Part 2 - Move Pick Ups](https://github.com/JRSerjeant/Unity-Tutorial-Roll-a-Ball-Extended/releases/tag/MovePickUps)
 ## [Part 3 - Pick Ups Fire Bullets](https://github.com/JRSerjeant/Unity-Tutorial-Roll-a-Ball-Extended/releases/tag/Bullets)
