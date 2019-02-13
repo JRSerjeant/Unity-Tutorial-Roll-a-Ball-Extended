@@ -7,7 +7,7 @@ public class Health : MonoBehaviour
     public int health;
 
     void OnTriggerEnter(Collider other) {
-        if(other.gameObject.tag == "Enemy")
+        if(other.gameObject.CompareTag("Enemy"))
         {
             health = health - other.gameObject.GetComponent<Attack>().damage;
         }
