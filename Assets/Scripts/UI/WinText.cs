@@ -21,12 +21,8 @@ public class WinText : MonoBehaviour
 
     void Update()
     {
-        Debug.Log((GameObject.FindGameObjectsWithTag("Pick Up")).Length);
-        Debug.Log("totalEnemyCount: " +totalEnemyCount);
-
         if((GameObject.FindGameObjectsWithTag("Pick Up")).Length <= 0)
         {
-            Debug.Log("You Win!");
             winText.text = "You Win!";
         }
         
